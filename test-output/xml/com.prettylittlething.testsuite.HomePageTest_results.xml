@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Verify user can purchase an item on PLT website "
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="170.502">
+  <properties />
+  
+  
+            <testcase name="verifyUserCanPurchaseAnItem" time="170.502" classname="com.prettylittlething.testsuite.HomePageTest" />
+      
+</testsuite>
